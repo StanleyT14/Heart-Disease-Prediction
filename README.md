@@ -34,17 +34,6 @@ Heart disease is one of the leading causes of death worldwide. Early detection c
 * 0 = No Heart Disease
 * 1 = Heart Disease
 
-## Project Workflow
-
-1. Data Collection
-2. Data Cleaning
-3. Exploratory Data Analysis (EDA)
-4. Feature Engineering
-5. Model Training
-6. Hyperparameter Tuning
-7. Model Evaluation
-8. Prediction
-
 ## Technologies Used
 
 * Python
