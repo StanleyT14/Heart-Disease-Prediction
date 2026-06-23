@@ -57,7 +57,7 @@ Heart disease is one of the leading causes of death worldwide. Early detection c
 ## Project Structure
 
 ```text
-Heart Disease Classification/
+Heart-Disease-Classification/
 ├── heart.csv
 ├── main.ipynb
 ├── model.pkl
@@ -69,7 +69,7 @@ Heart Disease Classification/
 ```bash
 git clone https://github.com/your-username/Heart-Disease-Prediction.git
 
-cd Heart Disease Classification
+cd Heart-Disease-Classification
 
 pip install -r requirements.txt
 ```
@@ -94,3 +94,7 @@ Follow the notebook cells sequentially.
 ## Author
 
 Name: Stanley Tomoyo
+
+## License
+
+This project is licensed under the MIT License
